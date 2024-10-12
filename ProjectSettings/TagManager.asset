@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hawk
+  - Thundercloud
+  - Asteroid
+  - BlackHole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2499302449
+    locked: 0
+  - name: Galaxies
+    uniqueID: 1223469877
+    locked: 0
+  - name: Stars
+    uniqueID: 4191990349
+    locked: 0
+  - name: Sun
+    uniqueID: 1188660219
+    locked: 0
+  - name: Moon
+    uniqueID: 484430427
+    locked: 0
+  - name: Clouds
+    uniqueID: 3576463127
+    locked: 0
+  - name: Cliff
+    uniqueID: 2519894079
+    locked: 0
+  - name: FinalCloud
+    uniqueID: 903364541
+    locked: 0
+  - name: Meadow
+    uniqueID: 45719117
+    locked: 0
+  - name: SpaceStationPlatform
+    uniqueID: 2814526985
+    locked: 0
+  - name: Wife
+    uniqueID: 1712567139
+    locked: 0
+  - name: Player2
+    uniqueID: 3434677147
+    locked: 0
+  - name: House
+    uniqueID: 1911466913
+    locked: 0
+  - name: SpaceStationModule
+    uniqueID: 1424381397
+    locked: 0
+  - name: Asteroid
+    uniqueID: 3853553729
+    locked: 0
+  - name: Hawks
+    uniqueID: 3252156213
+    locked: 0
+  - name: Thunderclouds
+    uniqueID: 130547079
+    locked: 0
+  - name: ThundercloudLightning
+    uniqueID: 790028001
+    locked: 0
+  - name: BlackHole
+    uniqueID: 1219714551
+    locked: 0
+  - name: BalloonCluster
+    uniqueID: 2935106447
+    locked: 0
+  - name: HotAirBalloon
+    uniqueID: 3974790499
+    locked: 0
+  - name: HotAirBalloonLightning
+    uniqueID: 3489867029
+    locked: 0
+  - name: Rocket
+    uniqueID: 2210402383
+    locked: 0
+  - name: Player1
+    uniqueID: 2262418627
+    locked: 0
+  - name: SlideshowImages
+    uniqueID: 2998744331
+    locked: 0
+  - name: SlideshowTransition
+    uniqueID: 1876119927
+    locked: 0
